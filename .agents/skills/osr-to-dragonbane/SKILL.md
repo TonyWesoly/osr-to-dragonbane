@@ -57,7 +57,7 @@ Wczytaj `references/02_tlumaczenie_dtp_i_druk.md`.
 ## Etap 4: Redakcja, Audyt QA, Wariant B&W, Booklet i Raport Druku (osobny czat)
 > **Zasada higieny kontekstu:** Etap 4 uruchamiaj w **osobnym, świeżym czacie** po zakończeniu wszystkich plików w `work/pages/`.
 
-1. **Przebieg redakcyjny:** przejrzyj cały polski tekst bez patrzenia na angielski oryginał, usuwając kalki i szlifując płynność oraz zwięzłość użytkową przy stole.
+1. **Przebieg redakcyjny:** przejrzyj cały polski tekst bez patrzenia na angielski oryginał (wg sekcji 1 `references/02_tlumaczenie_dtp_i_druk.md`), szlifując płynność i zwięzłość użytkową przy stole oraz wyłapując nie tylko literówki i powtórzenia, lecz szczególnie **zdania brzmiące jak kalka z angielskiego oraz niejasne lub ucięte idiomy/puenty** (zwłaszcza w plotkach, dialogach i opisach PN).
 2. **Warunkowy wariant czarno-biały (`--bw`):** dla **modułów kolorowych i wariantu duotone** przygotuj `modules/<slug>/work/style_bw.css` (zasady w `references/02_tlumaczenie_dtp_i_druk.md`, sekcja 4) i zbuduj wariant B&W z `work/pages/`. Dla **modułów czysto B&W** nie duplikuj plików `_bw.pdf`.
 3. **Audyt QA i Visual QA:** sprawdź całość z *Checklistą Audytu QA* (`references/01_mechanika_dragonbane_pl.md`, sekcja 8), wykonaj pełny build (`build_pdf.py work/pages/ --strict` oraz `--bw --strict`, jeśli dotyczy — z 0 przepełnień i identyczną paginacją wersji głównej oraz B&W) i skontroluj kluczowe strony wariantu B&W na podglądach JPEG.
 4. **Finalne pliki w `modules/<slug>/output/`:**

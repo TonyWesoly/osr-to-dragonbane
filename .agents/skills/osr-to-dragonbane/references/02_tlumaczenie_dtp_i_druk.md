@@ -3,6 +3,8 @@
 ## 1. Tłumaczenie i wierność intencji autora
 - **Styl użytkowy OSR:** oddawaj rytm, zwięzłość i klimat konkretnego autora. Moduł OSR to narzędzie do szybkiego skanowania wzrokiem podczas sesji — nie dopisuj zbędnej „waty słownej”.
 - **Naturalna polszczyzna:** wzoruj się na polskim przekładzie *Dragonbane* (T. Z. Majkowski: *Kopiec Witezia*, *Tonąca Wieża*). Unikaj kalek (*„przetestuj **SZUKANIE**”*, *„odnosi 2k6 obrażeń ciętych”*, *„ogarnia ją Strach”* zamiast *„wykonaj rzut...”*).
+- **Test „czytelnika bez znajomości angielskiego” (idiomy, humor, mowa potoczna):** nigdy nie tłumacz angielskich idiomów, żartów ani gwarowych przekręceń półdosłownie i nie skracaj ich kosztem puenty; zawsze przeformułuj całe zdanie na naturalny polski idiom o tej samej funkcji, w pełni zrozumiały bez znajomości oryginału.
+- **Strefy podwyższonej uwagi (*translationese*):** w plotkach, dialogach, haczykach fabularnych i opisach charakteru PN bezwzględnie unikaj angielskiej składni bezokolicznikowej, sztucznych zrostów z dywizami i wieloznacznych słów bez kontekstu — stawiaj na żywe polskie czasowniki i naturalny szyk brzmiący dobrze przy czytaniu na głos na sesji.
 - **Rymowanki, inskrypcje i zagadki:** tłumacz twórczo z zachowaniem logiki wskazówek (zapisuj w `glossary.md`).
 - **Korekta końcowa:** w Etapie 4 przeczytaj gotowy polski tekst **bez patrzenia na angielski oryginał**, aby wyłapać sztuczny szyk zdań.
 
