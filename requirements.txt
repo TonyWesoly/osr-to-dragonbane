@@ -1,0 +1,9 @@
+# Bezpośrednie zależności Pythona dla skryptów warsztatu (scripts/)
+pymupdf>=1.24          # ekstrakcja PDF, rasteryzacja podglądów, impozycja bookletu (extract_pdf.py, build_pdf.py, impose_booklet.py)
+weasyprint>=60         # skład HTML+CSS -> PDF (build_pdf.py)
+pillow>=10             # generowanie lekkich podglądów RGB JPEG i przetwarzanie grafik B&W (extract_pdf.py, build_pdf.py)
+beautifulsoup4>=4.12   # bezpieczne operacje DOM na HTML (build_pdf.py)
+lxml>=5                # parser HTML/XML dla BeautifulSoup (build_pdf.py)
+numpy>=1.26            # optymalizacja tonalna grafik do druku laserowego B&W (build_pdf.py)
+pyphen>=0.15           # polskie dzielenie wyrazów (hyphens: auto) w WeasyPrint (build_pdf.py)
+fonttools>=4.50        # weryfikacja 18 polskich znaków diakrytycznych w nowo pobieranych fontach

@@ -1,0 +1,33 @@
+# ==============================================================================
+# OCHRONA PRAW AUTORSKICH — NIGDY NIE UŻYWAJ `git add -f`!
+# Śledzimy wyłącznie silnik warsztatu:
+# GEMINI.md, .agents/, scripts/, .gitignore, requirements.txt, README.md
+# ==============================================================================
+
+# Podręczniki referencyjne Dragonbane PL, wzorce i fonty
+reference/
+
+# Moduły OSR (oryginalne PDF-y, pliki robocze, tłumaczenia, finalne PDF-y)
+modules/
+
+# Środowisko Python i cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pliki PDF i obrazy (ochrona przed przypadkowym dodaniem materiałów autorskich)
+*.pdf
+*.PDF
+*.png
+*.PNG
+*.jpg
+*.JPG
+*.jpeg
+*.JPEG
+
+# Pliki systemowe i lokalne
+.DS_Store
+Thumbs.db
