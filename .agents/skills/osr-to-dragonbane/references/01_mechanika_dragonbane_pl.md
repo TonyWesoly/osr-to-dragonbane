@@ -73,8 +73,8 @@ Używaj nazw z nagłówków treści haseł: **ghul** (nie ghoul ze spisu treści
 | 1-1 do 1 HD | Pionek / Słaby Potwór | PN: 7–10 / Potwór: 8–14 | PN: 10–12 / Potwór: k8–2k6 | Brak / +k4 | – / 1 |
 | 1+ do 2 HD | Elitarny Pionek / Pomniejszy Potwór | PN: 10–14 / Potwór: 14–22 | PN: 12–13 / Potwór: k10–2k6 | +k4 | – / 1–2 |
 | 3 do 4 HD | Figura (PN) / Potwór | PN: 16–24 / Potwór: 24–38 | PN: 14–15 / Potwór: 2k6–2k10 (obsz. k8–2k6) | +k4 do +k6 | 1–2 |
-| 5 do 7 HD | Groźny Potwór / Boss | 34–58 *(niżej przy pancerzu/reg.)* | 2k8–3k8 (obsz. 2k6–2k10) | Brak | 2 |
-| 8 do 10 HD | Potężny Boss (np. Młody smok) | 56–78 | 2k10–4k8 (obsz. 2k8–2k10) | Brak | 2–3 *(Olbrzymy: 1)* |
+| 5 do 7 HD | Groźny Potwór / Boss | 34–58 *(niżej przy pancerzu/reg.)* | 2k8–3k8 (obsz. 2k6–2k10) | Brak | 2 *(lub BG − 1 dla bossa solo)* |
+| 8 do 10 HD | Potężny Boss (np. Młody smok) | 56–78 | 2k10–4k8 (obsz. 2k8–2k10) | Brak | 2–3 *(Olbrzymy: 1; lub BG − 1)* |
 | 11+ HD | Legendarny Potwór | 80–108 | 3k10–5k10 (obsz. 2k10–4k10) | Brak | 2–3 *(lub BG − 1)* |
 
 ### Kalibracja Pancerza (Zbroje PN vs Pancerz naturalny Potworów)
@@ -127,7 +127,7 @@ W *Dragonbane* postać ma **tylko 1 akcję na rundę** (wspólną na atak i paro
 - **Światło słoneczne:** Nocarze (gobliny, hobgobliny, orki, ogry) w pełnym słońcu odnoszą k6 obr./Kwadrans i mają zgrzyt we wszystkich testach; Trolle tracą regenerację, odnoszą k6 obr./rundę i przy 0 WT zamieniają się w kamień.
 - **Brak długiego odpoczynku w lochu:** w niebezpiecznych podziemiach nie można odbyć *Kwarty odpoczynku*; opuszczenie lochu uruchamia tabelę *Opuszczania strefy przygody* (k6: 1 tropienie/atak, 2 posiłki, 3 inni grabią skarb, 4–6 spokój). Zdarzenia losowe sprawdzaj co **Kwadrans** (w dziczy co **Kwartę**).
 - **Pułapki a *Śmierć na miejscu*:** postacie w DB mają 10–18 WT, a cios schodzący do ujemnego maks. WT zabija natychmiast bez testów agonii! Kalibruj obrażenia pułapek na: lekkie `k6–k10`, standardowe `2k6–3k6`, śmiertelne `3k6–4k6` (+ ew. trucizna/dolegliwość), ZAWSZE zachowując wskazówki i dając ciężkozbrojnym w pułapkach fizycznych (głaz, podmuch) zamiennie test **KON/SIŁ** (bo kolczuga/płyta daje zgrzyt w UNIKACH).
-- **Wyważanie przeszkód:** drewniane drzwi (Pancerz 3, 15 obr.), okute drzwi/skrzynia (Pancerz 5, 20–25 obr.), żelazna krata (Pancerz 10, 30 obr.) lub test **SIŁ**.
+- **Wyważanie przeszkód:** drewniane drzwi (Pancerz 3–5, 10–15 obr.), okute drzwi/skrzynia/kłódka (Pancerz 5–6, 20–25 obr.), żelazna krata (Pancerz 10, 30 obr.), masywna brama / drzwi-zagadka (Pancerz 12–25, 40–100 obr.) lub test **SIŁ**.
 - **Inne pułapki adaptacji:** brak *Charakterów* (Alignment → konkretne typy: demony/nieumarli/nocarze lub frakcje); szlamy/kwas rób na wzór **Ogromnej ameby** (Best. str. 88: *Korozja* + *Kradzież* + *Wchłonięcie* ignorujące pancerz; trwałe niszczenie pancerza wyłącznie dla potworów jak Rdzawnik czy **Demon chaosu**, Best. str. 136); okaleczenia wyłącznie przez opcjonalne **Poważne urazy** (test KON po przeżyciu 0 WT).
 - **Podróże na mapie dziczy (dopasowanie do skali mapy OSR):** baza z PG to **Podróż** (`PG str. 101`: `15 km/kwarta` pieszo, `30 km/kwarta` konno, maks. 2 kwarty/dzień lub 3 z **Wyczerpaniem**; *Przewodnik* testuje **PRZETRWANIE** co kwartę — bez mapy lub w trudnym terenie ze zgrzytem), **Tarapaty** i **Spotkania losowe** (`PG str. 102`: porażka Przewodnika → tabela k12; spotkanie raz na kwartę), **Obozowanie** i **Jedzenie na szlaku** (`PG str. 103`) oraz **Racje żywności / Głód** (`PG str. 54`: 1 racja/dzień). Procedurę zawsze dopasuj do realnej skali mapy modułu:
 
