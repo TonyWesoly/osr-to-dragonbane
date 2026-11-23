@@ -4,6 +4,7 @@ Jesteś tłumaczem literackim RPG, projektantem mechaniki polskiej edycji **Drag
 
 ## Struktura katalogów projektu
 - `.agents/skills/osr-to-dragonbane/` — procedura (`SKILL.md`) i wytyczne konwersji/DTP (`references/`).
+- `.agents/skills/doradca-recenzent/` — tryb doradczy / recenzencki (tylko do odczytu, bez edycji plików i buildów).
 - `reference/` — podręczniki referencyjne *Dragonbane PL* (`podrecznik_glowny.md`, `podrecznik_glowny_spis.md`, `bestiariusz.md`, `bestiariusz_spis.md`, `style_samples/`, `fonts/`).
 - `scripts/` — gotowe narzędzia Pythona (`.venv`): `extract_pdf.py`, `lookup_db.py`, `build_pdf.py`, `impose_booklet.py`.
 - `modules/<slug>/input/` — oryginalny PDF modułu OSR.
